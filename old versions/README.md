@@ -1,6 +1,11 @@
 # Changelog
 NOTE: minor update (change in last number in software number) changes were largely not recorded before 2019/12/2
 
+## v2.4.0
+2019/12/2
+- plot_math functional, but only works for 2 conditions w/ 4 replicates each right now
+- I spent a week debugging plot_math. It gets its own update.
+
 ## v2.3.0
 2019/11/18
 - Iterative functions now working
@@ -10,15 +15,14 @@ NOTE: minor update (change in last number in software number) changes were large
 2019/11/11
 - Fixed list scope bug
 
-## v.2.1.0
-2019/11/5
-- Started framework for dynamic number of conditions and replicates
-
 ## v2.0.1
 2019/10/31
 - Changed base program to Lavender's 2-condition, 4-replicate file
 - Began implementing functions to condense code
 - Still only compatible with input file Lavender provided
+### v.2.1.0
+2019/11/5
+- Started framework for dynamic number of conditions and replicates
 
 ## v1.0.2
 2019/10/10
