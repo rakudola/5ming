@@ -1,7 +1,13 @@
 # Changelog
 NOTE: minor update (change in last number in software number) changes were largely not recorded before 2019/12/2
 
-## v2.4.0
+## v2.5.0
+2019/12/5
+- Rolled back to v2.3.3 due to issue with plot_math function
+- Breaking up plot_math into smaller functions during implementation
+- New fit_scurve function
+
+## v2.4.0 (BROKEN. DO NOT USE)
 2019/12/2
 - plot_math functional, but only works for 2 conditions w/ 4 replicates each right now
 - I spent a week debugging plot_math. It gets its own update.
