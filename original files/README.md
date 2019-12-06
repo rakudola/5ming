@@ -5,4 +5,10 @@ All code and data in this folder produced by Lavender
 Original source code (1 condition)
 
 ## fitting_2 condition_4 replicate_v2_190207_delta%.py
-Above code modified for 2-condition, 4-replicate analysis (base of current version)
+LL3020_Fitting Program_ rep_v3_190906_haveStartEnd.py code modified for 2-condition, 4-replicate analysis (base of current version)
+
+### HD_HP_1085+1091+1107+1105_python.csv
+fitting_2 condition_4 replicate_v2_190207_delta%.py input file
+
+### HD_HP_1085+1091+1107+1105_fitting output.csv
+fitting_2 condition_4 replicate_v2_190207_delta%.py output file
