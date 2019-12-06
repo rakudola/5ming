@@ -7,7 +7,7 @@ NOTE: minor update (change in last number in software number) changes were large
 - Breaking up plot_math into smaller functions during implementation
 - New fit_scurve function
 
-## v2.4.0 (BROKEN. DO NOT USE)
+## v2.4.0 (BUG)
 2019/12/2
 - plot_math functional, but only works for 2 conditions w/ 4 replicates each right now
 - I spent a week debugging plot_math. It gets its own update.
