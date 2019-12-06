@@ -1,5 +1,5 @@
 # Changelog
-NOTE: minor update (change in last number in software number) changes were largely not recorded before 2019/12/2
+NOTE: minor updates (change in last number in software number) were largely not recorded before 2019/12/2
 
 ## v2.5.0
 2019/12/5
