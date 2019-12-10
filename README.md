@@ -2,7 +2,9 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.5.1 (2019/12/6)
+v2.5.2 (2019/12/10)
+- New r_squared function
+- Removed some extraneous code
 
 ## Current Long-Term Goals
 - Allow for multiple condition/replicate analysis without copy-pasting code
