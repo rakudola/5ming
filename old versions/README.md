@@ -7,6 +7,10 @@ NOTE: minor updates (change in last number in software number) were largely not 
 - Breaking up plot_math into smaller functions during implementation
 - New fit_scurve function
 
+### v2.5.1
+2019/12/6
+- New confidence_interval function
+
 ## v2.4.0 (BUG)
 2019/12/2
 - plot_math functional, but only works for 2 conditions w/ 4 replicates each right now
