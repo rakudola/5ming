@@ -11,6 +11,11 @@ NOTE: minor updates (change in last number in software number) were largely not 
 2019/12/6
 - New confidence_interval function
 
+### v2.5.2
+2019/12/10
+-New r_squared function
+-Removed some extraneous code
+
 ## v2.4.0 (BUG)
 2019/12/2
 - plot_math functional, but only works for 2 conditions w/ 4 replicates each right now
