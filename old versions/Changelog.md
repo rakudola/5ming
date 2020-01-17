@@ -16,6 +16,11 @@ NOTE: minor updates (change in last number in software number) were largely not 
 - New r_squared function
 - Removed some extraneous code
 
+### v2.5.3
+(2019/12/10)
+- plot_color function now operational
+- Added whitespace for legibility, changed 'Chalf' vars to 'C half'
+
 ## v2.4.0 (BUG)
 2019/12/2
 - plot_math functional, but only works for 2 conditions w/ 4 replicates each right now
