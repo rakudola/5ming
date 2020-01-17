@@ -13,8 +13,8 @@ NOTE: minor updates (change in last number in software number) were largely not 
 
 ### v2.5.2
 2019/12/10
--New r_squared function
--Removed some extraneous code
+- New r_squared function
+- Removed some extraneous code
 
 ## v2.4.0 (BUG)
 2019/12/2
