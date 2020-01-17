@@ -2,12 +2,11 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.5.3 (2019/12/10)
-- plot_color function now operational
-- Added whitespace for legibility, changed 'Chalf' vars to 'C half'
+v2.5.4 (2019/1/17)
+- Added delta_calculation function; only works for 2 conditions at the moment
 
 ## Goals
-- [ ] Rewrite and debug plot_math function (2019/12/5)
+- [ ] Rewrite/debug functions only working with 2-condition, 4-replicate runs (2019/12/5)
 - [ ] Allow for multiple condition/replicate analysis without copy-pasting code
 - [ ] Name this software
 - [ ] Check/fix delta calculations (2019/9/24)
