@@ -2,9 +2,9 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.5.2 (2019/12/10)
-- New r_squared function
-- Removed some extraneous code
+v2.5.3 (2019/12/10)
+- plot_color function now operational
+- Added whitespace for legibility, changed 'Chalf' vars to 'C half'
 
 ## Goals
 - [ ] Rewrite and debug plot_math function (2019/12/5)
