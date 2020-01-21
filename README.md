@@ -9,9 +9,8 @@ v2.6.0 (2019/1/21)
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
 - [ ] Make required variable changes in code more comprehensive (2020/1/21)
-- [ ] Rewrite/debug functions only working with 2-condition, 4-replicate runs (2019/12/5)
+- [ ] Move functions not returning anything back into main code for legibility? (2020/1/21)
 - [ ] Name this software
-- [ ] Check/fix delta calculations (2019/9/24)
 - [ ] Modification frequency + cleaning up and consolidating files (2019/9/24)
 - [ ] Analyze PEAKS output directly (2019/10/24)
 - [ ] Allow for .csv input (in case not using PEAKS) if correct headers (2020/1/17)
@@ -25,3 +24,8 @@ v2.6.0 (2019/1/21)
 ### Footnotes
 - *see page 18 of notebook
 - **see page 22
+
+## Bugs
+- [ ] Certain functions only work with 2-condition, 4-replicate runs
+- [ ] csv.reader reading blank lines after data
+- [ ] Delta calculations completely broken
