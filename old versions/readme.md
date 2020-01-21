@@ -25,6 +25,11 @@ NOTE: minor updates (change in last number in software number) were largely not 
 (2019/1/17)
 - Added delta_calculation function; only works for 2 conditions at the moment
 
+### v2.5.
+(2019/1/21)
+- Moved delta_calculation function back into body; was not functioning properly as a separate function (still only works with 2 conditions for the moment)
+- Condensed normalized header printing (now allows for different numbers of conditions and replcates)
+
 ## v2.4.0 (BUG)
 2019/12/2
 - plot_math functional, but only works for 2 conditions w/ 4 replicates each right now
