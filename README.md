@@ -2,8 +2,9 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.5.4 (2019/1/17)
-- Added delta_calculation function; only works for 2 conditions at the moment
+v2.5.5 (2019/1/21)
+- Moved delta_calculation function back into body; was not functioning properly as a separate function (still only works with 2 conditions for the moment)
+- Condensed normalized header printing (now allows for different numbers of conditions and replcates)
 
 ## Goals
 - [ ] Rewrite/debug functions only working with 2-condition, 4-replicate runs (2019/12/5)
