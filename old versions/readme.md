@@ -1,6 +1,11 @@
 # Changelog
 NOTE: minor updates (change in last number in software number) were largely not recorded before 2019/12/2
 
+## v2.6.0
+(2019/1/21)
+- Program now can scale to different numbers of conditions and replicates save for a handful of bugs
+- Prior raw data manipulation and some in-code variable changes still required, but no more copy-pasting functions!
+
 ## v2.5.0
 2019/12/5
 - Rolled back to v2.3.3 due to issue with plot_math function
