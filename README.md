@@ -2,13 +2,10 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.6.1 (2019/1/21)
-- Errors (from the main-body try statement) are now printed to console
-- Colors and markers for plot are now chosen automatically; no need to change variables for a normal run
-- Added CI_chalf_significant and CI_chlaf_overlap calculations back in as a comment; will need to be debugged
-- Code should actually stop at EOF instead of running for a bunch of empty lines
-- Plots for some data that previously wouldn't run can now be generated. This can be toggled with the PRINT_ALL variable
-- Required user input is now at the top of the code and divided from the rest of the code
+v2.6.2 (2020/1/24)
+- If PRINT_ALL is set to True, graphs that wouldn't have been generated otherwise will now include " (data issue)" in filename
+- C half significance and confidence interval overlap code is working and printing to csv output
+- One 2-condition-4-replicate-only bug squished!
 
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
