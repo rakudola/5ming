@@ -6,6 +6,15 @@ NOTE: minor updates (change in last number in software number) were largely not 
 - Program now can scale to different numbers of conditions and replicates save for a handful of bugs
 - Prior raw data manipulation and some in-code variable changes still required, but no more copy-pasting functions!
 
+### v2.6.1
+(2019/1/21)
+- Errors (from the main-body try statement) are now printed to console
+- Colors and markers for plot are now chosen automatically; no need to change variables for a normal run
+- Added CI_chalf_significant and CI_chlaf_overlap calculations back in as a comment; will need to be debugged
+- Code should actually stop at EOF instead of running for a bunch of empty lines
+- Plots for some data that previously wouldn't run can now be generated. This can be toggled with the PRINT_ALL variable
+- Required user input is now at the top of the code and divided from the rest of the code
+
 ## v2.5.0
 2019/12/5
 - Rolled back to v2.3.3 due to issue with plot_math function
