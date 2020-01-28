@@ -22,6 +22,8 @@ v2.6.2 (2020/1/24)
 - [ ] Match non-unique peptides to their respective proteins (2019/11/26)**
 - [ ] Allow run analysis even if missing replicates/conditions (2019/11/26)**
 
+- [ ] find string in given -start & end letter position (2020/1/28; delete later)
+
 ### Footnotes
 - *see page 18 of notebook
 - **see page 22
