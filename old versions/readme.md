@@ -21,6 +21,10 @@ NOTE: minor updates (change in last number in software number) were largely not 
 - C half significance and confidence interval overlap code is working and printing to csv output
 - One 2-condition-4-replicate-only bug squished!
 
+### v2.6.3
+(2020/1/30)
+-Squished a few more bugs that weren't allowing for dynamic number of conditions and replicates
+
 ## v2.5.0
 2019/12/5
 - Rolled back to v2.3.3 due to issue with plot_math function
