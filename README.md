@@ -2,8 +2,8 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.6.3 (2020/1/30)
-- Squished a few more bugs that weren't allowing for dynamic number of conditions and replicates
+v2.6.4 (2020/1/30)
+- Finished debugging most of the 2-condition-4-replicate-only bugs. Still need to adjust C 1/2 significance + CI overlap, but those should (finally) be the last of these specific bugs
 
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
