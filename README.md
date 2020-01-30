@@ -2,10 +2,8 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.6.2 (2020/1/24)
-- If PRINT_ALL is set to True, graphs that wouldn't have been generated otherwise will now include " (data issue)" in filename
-- C half significance and confidence interval overlap code is working and printing to csv output
-- One 2-condition-4-replicate-only bug squished!
+v2.6.3 (2020/1/30)
+- Squished a few more bugs that weren't allowing for dynamic number of conditions and replicates
 
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
