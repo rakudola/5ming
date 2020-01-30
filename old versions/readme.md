@@ -15,6 +15,12 @@ NOTE: minor updates (change in last number in software number) were largely not 
 - Plots for some data that previously wouldn't run can now be generated. This can be toggled with the PRINT_ALL variable
 - Required user input is now at the top of the code and divided from the rest of the code
 
+### v2.6.2
+(2020/1/24)
+- If PRINT_ALL is set to True, graphs that wouldn't have been generated otherwise will now include " (data issue)" in filename
+- C half significance and confidence interval overlap code is working and printing to csv output
+- One 2-condition-4-replicate-only bug squished!
+
 ## v2.5.0
 2019/12/5
 - Rolled back to v2.3.3 due to issue with plot_math function
