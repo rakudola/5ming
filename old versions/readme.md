@@ -29,6 +29,11 @@ NOTE: minor updates (change in last number in software number) were largely not 
 (2020/1/30)
 - Finished debugging most of the 2-condition-4-replicate-only bugs. Still need to adjust C 1/2 significance + CI overlap, but those should (finally) be the last of these specific bugs
 
+### v2.6.5
+(2020/1/30)
+- Delta calculations, C 1/2 significance, and CI overlap are reserved for 2-condition runs
+- Program is finally fully functional with different number of conditions and replicates!!
+
 ## v2.5.0
 2019/12/5
 - Rolled back to v2.3.3 due to issue with plot_math function
