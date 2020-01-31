@@ -25,6 +25,10 @@ NOTE: minor updates (change in last number in software number) were largely not 
 (2020/1/30)
 -Squished a few more bugs that weren't allowing for dynamic number of conditions and replicates
 
+### v2.6.4
+(2020/1/30)
+- Finished debugging most of the 2-condition-4-replicate-only bugs. Still need to adjust C 1/2 significance + CI overlap, but those should (finally) be the last of these specific bugs
+
 ## v2.5.0
 2019/12/5
 - Rolled back to v2.3.3 due to issue with plot_math function
