@@ -2,9 +2,9 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.6.4 (2020/1/30)
-- Finished debugging most of the 2-condition-4-replicate-only bugs. Still need to adjust C 1/2 significance + CI overlap, but those should (finally) be the last of these specific bugs
-
+v2.6.5 (2020/1/30)
+- Delta calculations, C 1/2 significance, and CI overlap are reserved for 2-condition runs
+- Program is finally fully functional with different number of conditions and replicates!!
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
 - [ ] Better documentation (2020/1/21)
@@ -26,4 +26,4 @@ v2.6.4 (2020/1/30)
 
 ## Bugs
 - [x] csv.reader reading blank lines after data (s. 2020/1/23)
-- [ ] Certain functions only work with 2-condition, 4-replicate runs
+- [x] Certain functions only work with 2-condition, 4-replicate runs (s. 2020/1/31)
