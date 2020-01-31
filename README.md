@@ -2,9 +2,10 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.6.5 (2020/1/30)
-- Delta calculations, C 1/2 significance, and CI overlap are reserved for 2-condition runs
-- Program is finally fully functional with different number of conditions and replicates!!
+v2.6.6 (2020/1/30)
+- Changed how plot generation handles error
+- Program now closes infile after finished reading from it (rather than at the end of the program)
+
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
 - [ ] Better documentation (2020/1/21)
