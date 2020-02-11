@@ -34,6 +34,11 @@ NOTE: minor updates (change in last number in software number) were largely not 
 - Delta calculations, C 1/2 significance, and CI overlap are reserved for 2-condition runs
 - Program is finally fully functional with different number of conditions and replicates!!
 
+### v2.6.6
+(2020/1/30)
+- Changed how plot generation handles error
+- Program now closes infile after finished reading from it (rather than at the end of the program)
+
 ## v2.5.0
 2019/12/5
 - Rolled back to v2.3.3 due to issue with plot_math function
