@@ -2,9 +2,8 @@
 Python code to visually organize PEAKS peptide analysis for protein unfolding
 
 ## Current Version
-v2.7.0 (2020/2/11)
-- Beginning read-in input
-- Currently does not scale outside of 2-condition, 4-replicate run from modified input, but development is underway!
+v2.7.1 (2020/2/13)
+- Development ending on HD input. Next version will only accept CD input.
 
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
