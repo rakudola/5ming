@@ -1,6 +1,11 @@
 # Changelog
 NOTE: minor updates (change in last number in software number) were largely not recorded before 2019/12/2
 
+## v2.7.0
+(2020/2/11)
+- Beginning read-in input
+- Currently does not scale outside of 2-condition, 4-replicate run from modified input, but development is underway!
+
 ## v2.6.0
 (2019/1/21)
 - Program now can scale to different numbers of conditions and replicates save for a handful of bugs
