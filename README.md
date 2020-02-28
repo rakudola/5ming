@@ -24,7 +24,3 @@ v2.7.2 (2020/2/28)
 ### Footnotes
 - *see page 18 of notebook
 - **see page 22
-
-## Bugs
-- [x] csv.reader reading blank lines after data (s. 2020/1/23)
-- [x] Certain functions only work with 2-condition, 4-replicate runs (s. 2020/1/31)
