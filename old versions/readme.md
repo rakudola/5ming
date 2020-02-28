@@ -6,6 +6,10 @@ NOTE: minor updates (change in last number in software number) were largely not 
 - Beginning read-in input
 - Currently does not scale outside of 2-condition, 4-replicate run from modified input, but development is underway!
 
+### v2.7.1
+(2020/2/13)
+- Support ending for HD input. Next version will only accept CD input
+
 ## v2.6.0
 (2019/1/21)
 - Program now can scale to different numbers of conditions and replicates save for a handful of bugs
