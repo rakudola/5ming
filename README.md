@@ -1,5 +1,5 @@
 # C-Half
-Software to visually organize PEAKS peptide analysis for protein unfolding
+Software to visually organize PEAKS peptide analysis for protein unfolding (under development)
 
 ## Current Version
 v2.7.2 (2020/2/28)
