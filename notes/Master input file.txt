@@ -1,0 +1,13 @@
+- peaks ptm
+- peptide+whatever in con/rep from folder name (useful name <40 char or smth = annotate data)
+- automate significance comparisons (between conditions only=> limit graphing? 3 ANOVA vs 2 t test)
+
+//
+
+1, Put input files (PEAKS raw output) into directory
+2, Put directory name in master file
+3, If separate on replicates: (just a thought for now. i have those on occasion)
+  condition | replicate | directory
+  abc       | 1         | folder1
+            | 2         | folder2
+4, stonewall was a riot, etc.
