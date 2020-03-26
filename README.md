@@ -2,10 +2,9 @@
 Software to visually organize PEAKS peptide analysis for protein unfolding (under development)
 
 ## Current Version
-v2.7.2 (2020/2/28)
-- Development ended on HD input; now only accepts CD input
-- Minor bug fixes
-- Input now taken almost entirely from input file automatically
+v2.7.3 (2020/3/26)
+- User input now limited to a masterfile (development on this is just beginning and is not terribly stable)
+- File combination (proteins.csv + protein-peptides.csv) will be implemented as an automatic process at some point
 
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
@@ -23,6 +22,7 @@ v2.7.2 (2020/2/28)
 - [ ] Use con/rep description from folder name (2020/3/20)
 - [ ] Master input file (2020/3/20)
 - [ ] Limit graphing to 3 conditions (2020/3/20)
+- [ ] Multiple input files - per condition/replicate (2020/3/26)
 
 ### Footnotes
 - *see page 18 of notebook
