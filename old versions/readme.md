@@ -10,6 +10,12 @@ NOTE: minor updates (change in last number in software number) were largely not 
 (2020/2/13)
 - Support ending for HD input. Next version will only accept CD input
 
+### v2.7.2
+(2020/2/28)
+- Development ended on HD input; now only accepts CD input
+- Minor bug fixes
+- Input now taken almost entirely from input file automatically
+
 ## v2.6.0
 (2019/1/21)
 - Program now can scale to different numbers of conditions and replicates save for a handful of bugs
