@@ -23,6 +23,7 @@ v2.7.3 (2020/3/26)
 - [ ] Master input file (2020/3/20)
 - [ ] Limit graphing to 3 conditions (2020/3/20)
 - [ ] Multiple input files - per condition/replicate (2020/3/26)
+- [ ] Add heat denature back in + fix temperature normalization -> reconversion (2020/3/27)
 
 ### Footnotes
 - *see page 18 of notebook
