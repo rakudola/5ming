@@ -16,6 +16,11 @@ NOTE: minor updates (change in last number in software number) were largely not 
 - Minor bug fixes
 - Input now taken almost entirely from input file automatically
 
+### v2.7.3
+(2020/3/26)
+- User input now limited to a masterfile (development on this is just beginning and is not terribly stable)
+- File combination (proteins.csv + protein-peptides.csv) will be implemented as an automatic process at some point
+
 ## v2.6.0
 (2019/1/21)
 - Program now can scale to different numbers of conditions and replicates save for a handful of bugs
