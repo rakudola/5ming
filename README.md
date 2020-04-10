@@ -1,10 +1,19 @@
 # C-Half
 Software to visually organize PEAKS peptide analysis for protein unfolding (under development)
 
-## Current Version
-v2.7.3 (2020/3/26)
-- User input now limited to a masterfile (development on this is just beginning and is not terribly stable)
-- File combination (proteins.csv + protein-peptides.csv) will be implemented as an automatic process at some point
+## Files
+- v2.8.0.py: main file
+- file combine v1.1.0.py: combines input files
+
+## Current Versions
+### v2.8.0 (2020/4/10)
+- Improvements to master input file
+- Beginning to split main code into several modules
+
+### file combine 1.1.0.py (2020/4/10)
+- Supported in main file v2.8.0-current version
+- Takes three inputs (first input file, second input file, output file)
+- Accessed in main code as fc
 
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
