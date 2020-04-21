@@ -1,6 +1,11 @@
 # Changelog
 NOTE: minor updates (change in last number in software number) were largely not recorded before 2019/12/2
 
+## v2.8.0
+(2020/4/10)
+- Improvements to master input file
+- Beginning to split main code into several modules
+
 ## v2.7.0
 (2020/2/11)
 - Beginning read-in input
