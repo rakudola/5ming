@@ -2,18 +2,24 @@
 Software to visually organize PEAKS peptide analysis for protein unfolding (under development)
 
 ## Files
-- v2.8.0.py: main file
+- v2.8.1.py: main file
 - file combine v1.1.0.py: combines input files
+- readin v1.0.0.py: reads in combined input files
 
 ## Current Versions
-### v2.8.0 (2020/4/10)
-- Improvements to master input file
-- Beginning to split main code into several modules
+### v2.8.1 (2020/4/21)
+- Beginning reimplementation of heat denaturation
+- Minor bug fixes
 
 ### file combine 1.1.0.py (2020/4/10)
 - Supported in main file v2.8.0-current version
 - Takes three inputs (first input file, second input file, output file)
 - Accessed in main code as fc
+
+### readin 1.0.0.py (2020/4/21)
+- Supported in main file v2.8.1-current version
+- Takes in master input file and combined files from file combine
+- Accessed in main code as ri
 
 ## Goals
 - [x] Allow for multiple condition/replicate analysis without copy-pasting code (c. 2020/1/21)
